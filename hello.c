@@ -5,21 +5,23 @@
   Date: 1/22/2020
   Description of the program: Using latitude and longitude to calculate air distance between two locations
 
-  
+
 */
 
 
 #include <stdio.h>
 
 
-int main (void) {  
+int main (void) {
 printf("Raja Amirul Rasyid\n");
-printf("Mathematics\n");	// Variable declarations  
+printf("Mathematics\n");	// Variable declarations
 
-	// Program statements  
+printf("Tharvin\n", );
+printf("Civil Engineering\n", );
+	// Program statements
 
-	
-	
+
+
 	return 0;
 
 }
